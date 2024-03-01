@@ -3,7 +3,6 @@ title: "Lab 8: The Lake Problem"
 author: "CEVE 421/521"
 jupyter: julia-1.10
 date: 2024-03-22
-week: 9
 
 categories: [Lab]
 
